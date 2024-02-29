@@ -1,4 +1,4 @@
-# Exno:1
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/44af4c08-b278-46c1-9745-f1fa9da69a1a)# Exno:1
 Data Cleaning Process
 
 # AIM
@@ -68,8 +68,69 @@ Output
 
 6.Shape of the dataframe
 
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/4e35144b-922d-43a1-ba84-57299a8d5914)
 
+Output
 
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/a9a58572-d402-4367-b3be-76a7d2e3ee65)
+
+7.Checking tha NUll values
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/860e00fb-88b8-4c81-a9e2-9af250457007)
+
+Output
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/46c14197-5b6b-4cdd-830e-d7b9870e8f46)
+
+8.Drop the Null values
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/216c68b1-2d00-4054-b0ad-6daa53058024)
+
+Output
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/f9ad02c7-1256-4650-bb9f-d5b55da1471a)
+
+9.Drop the Null values in Total
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/a93ff3d6-0f45-43ab-8bd5-3be113e84170)
+
+Output
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/57a542a3-415f-464f-9229-c6b96bfd047a)
+
+10.Determinig the Duplicates
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/3c4e1ba6-47e7-44d4-91c9-e37dfff5e8a1)
+
+Output
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/869c9a72-ffe2-48cb-85fc-b84a0846e2a4)
+
+11.Deleting the duplicates
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/efbabc0f-9cf8-4dd8-8c60-caea3e10d869)
+
+Output
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/5d95fa7b-3a2d-4e52-bd58-771dfc5f4555)
+
+12.Highlighting Null values
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/1ff7e73b-f5ca-46e8-b841-e0e06fda57bb)
+
+Output
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/e4ffd3df-b29c-4125-bfe9-f12eb1e8fc64)
+
+13.Dropping Null vales
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/0bdc3bec-358c-4e44-af13-8b6c6535b2b3)
+
+Output
+
+![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/3270d8e2-5e32-4045-91b7-1e5136d58911)
 
 # Result
+The data clearning has beeen done successfully.
+
          
