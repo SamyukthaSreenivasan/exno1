@@ -1,4 +1,4 @@
-![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/44af4c08-b278-46c1-9745-f1fa9da69a1a)# Exno:1
+# Exno:1
 Data Cleaning Process
 
 # AIM
