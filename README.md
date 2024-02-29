@@ -25,7 +25,7 @@ STEP 6: Use zscore of to remove outliers
 # Developed By: Samyuktha S
 # Register Number: 212222240089
 ```
-```
+
 1.Read and Display Dataframe
 ![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/17bfa5f0-8e3e-4788-9fa6-b30ec1fa2d6e)
 
@@ -57,7 +57,7 @@ Output
 ![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/5aff5bfc-4624-4e7b-97a9-7e2415c50a64)
 
 6.Shape of the dataframe
-```
+
 
 
 
