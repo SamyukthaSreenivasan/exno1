@@ -57,7 +57,7 @@ Output
 ![image](https://github.com/SamyukthaSreenivasan/exno1/assets/119475703/5aff5bfc-4624-4e7b-97a9-7e2415c50a64)
 
 6.Shape of the dataframe
-
+```
 
 
 
